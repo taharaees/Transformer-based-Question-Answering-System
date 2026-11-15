@@ -93,7 +93,7 @@ The final project report is available as `Project_Report.pdf` in this repository
 
 ## Author
 
-**Your Name**
+**Muhammad Taha Raees**
 
 ---
 
